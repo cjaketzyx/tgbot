@@ -1,8 +1,3 @@
-Get
-
-any
-
-bold
 
 import aiohttp
 import asyncio
